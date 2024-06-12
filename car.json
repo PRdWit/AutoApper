@@ -1,0 +1,229 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "merk":"Mercedes Benz",
+            "model": "2024 Mercedes-Benz S-Class",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2022-mercedes-benz-s500-4matic-109-1642184016.jpg?crop=0.647xw:0.548xh;0.116xw,0.313xh&resize=1200:*",
+            "beschrijving": "Without question, if we close our eyes and envision the quintessential luxury sedan, it’s the Mercedes-Benz S-class that comes to mind."
+        },
+        {
+            "id": 2,
+            "merk":"Hyundai",
+            "model": "2024 Genesis G90",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2023-genesis-g90-3-5t-e-sc-5748-1671564719.jpg?crop=0.560xw:0.474xh;0.225xw,0.372xh&resize=1200:*",
+            "beschrijving": "Redesigned just last year, the 2024 Genesis G90 continues in its role as the automaker's flagship and most luxurious sedan."
+        },
+        {
+            "id": 3,
+            "merk":"BMW",
+            "model": "2025 BMW 7-Series",
+            "bouwjaar": "2025",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2023-bmw-760i-xdrive-104-64c806a1395ab.jpg?crop=0.627xw:0.529xh;0.139xw,0.421xh&resize=1200:*",
+            "beschrijving": "Blending old-school elegance with modern German technology, the 2025 BMW 7-series looks like a boxy throwback on the outside but is flush with standard high-end amenities and leading-edge tech on the inside."
+        },
+        {
+            "id": 4,
+            "merk":"Mercedes Benz",
+            "model": "2024 Mercedes-AMG S63",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/22c0377-013-1670273650.jpg?crop=0.758xw:0.639xh;0.0753xw,0.325xh&resize=1200:*",
+            "beschrijving": "It missed a year of production, but the AMG S63 supersedan is back in a major way. Making use of the Mercedes-Benz S-class’s seventh-generation architecture, the S63 brings the glitz with more go than ever thanks to a new plug-in hybrid powertrain."
+        },
+        {
+            "id": 5,
+            "merk":"Audi",
+            "model": "2024 Audi A8",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2024-audi-a8-102-64b6b2b1ae524.jpg?crop=0.712xw:0.600xh;0.152xw,0.288xh&resize=1200:*",
+            "beschrijving": "A stealth fighter in a sea of high-profile full-size luxury sedans, the Audi A8’s conservative yet confident personality and style are a virtue."
+        },
+        {
+            "id": 6,
+            "merk": "Lexus",
+            "model": "2024 Lexus LS",
+            "bouwjaar": "2024",
+            "image": "https://cdn.motor1.com/images/mgl/mMEq8j/s1/2024-lexus-ls-jdm.webp",
+            "beschrijving": "The 2024 Lexus LS offers a tranquil and luxurious ride with cutting-edge technology and a beautifully crafted interior."
+        },
+        {
+            "id": 7,
+            "merk": "Jaguar",
+            "model": "2024 Jaguar XJ",
+            "bouwjaar": "2024",
+            "image": "https://www.carscoops.com/wp-content/uploads/webp/2023/08/2030-Jag-XJ-Carscoops-1536x864.webp",
+            "beschrijving": "The 2024 Jaguar XJ is a sleek and stylish luxury sedan that combines British elegance with advanced performance."
+        },
+        {
+            "id": 8,
+            "merk": "Tesla",
+            "model": "2024 Tesla Model S Plaid",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2024-tesla-model-s-107-6572200e43fa1.jpg?crop=0.586xw:0.496xh;0.204xw,0.271xh&resize=1200:*",
+            "beschrijving": "The 2024 Tesla Model S Plaid sets new standards for electric performance with its breathtaking acceleration and cutting-edge technology."
+        },
+        {
+            "id": 9,
+            "merk": "Cadillac",
+            "model": "2024 Cadillac CT6",
+            "bouwjaar": "2024",
+            "image": "https://cdn.motor1.com/images/mgl/BXQgEZ/s1/2024-cadillac-ct6-china.webp",
+            "beschrijving": "The 2024 Cadillac CT6 offers a blend of American luxury and modern technology, delivering a refined driving experience."
+        },
+        {
+            "id": 10,
+            "merk": "Volvo",
+            "model": "2024 Volvo S90",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2024-volvo-s90-102-649314d6859dc.jpg?crop=0.384xw:0.398xh;0.419xw,0.425xh&resize=1200:*",
+            "beschrijving": "The 2024 Volvo S90 stands out with its Scandinavian design, advanced safety features, and serene cabin."
+        },
+        {
+            "id": 11,
+            "merk": "Porsche",
+            "model": "2024 Porsche Panamera",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/812000/700/812779.jpg",
+            "beschrijving": "The 2024 Porsche Panamera combines sports car performance with the luxury and practicality of a sedan."
+        },
+        {
+            "id": 12,
+            "merk": "Aston Martin",
+            "model": "2024 Aston Martin Rapide AMR",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/812000/800/812893.jpg",
+            "beschrijving": "The 2024 Aston Martin Rapide AMR is a four-door sports car that delivers thrilling performance and opulent comfort."
+        },
+        {
+            "id": 13,
+            "merk": "Rolls-Royce",
+            "model": "2024 Rolls-Royce Ghost",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/812000/900/812950.jpg",
+            "beschrijving": "The 2024 Rolls-Royce Ghost epitomizes luxury with its exquisite craftsmanship, serene ride, and bespoke options."
+        },
+        {
+            "id": 14,
+            "merk": "Bentley",
+            "model": "2024 Bentley Flying Spur",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2024-bentley-flying-spur-644bddfb89ff4.jpg?crop=0.595xw:0.457xh;0.155xw,0.343xh&resize=1200:*",
+            "beschrijving": "The 2024 Bentley Flying Spur is a grand tourer that offers a blend of performance, luxury, and advanced technology."
+        },
+        {
+            "id": 15,
+            "merk": "Maserati",
+            "model": "2024 Maserati Quattroporte",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/813000/100/813199.jpg",
+            "beschrijving": "The 2024 Maserati Quattroporte combines Italian flair with dynamic performance and luxurious comfort."
+        },
+        {
+            "id": 16,
+            "merk": "Genesis",
+            "model": "2024 Genesis G80",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/813000/200/813234.jpg",
+            "beschrijving": "The 2024 Genesis G80 offers a compelling combination of luxury, technology, and value in the midsize luxury sedan segment."
+        },
+        {
+            "id": 17,
+            "merk": "Infiniti",
+            "model": "2024 Infiniti Q70",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/infiniti-vision-qe-concept-front-three-quarters-4-6532a1f618174.jpg?crop=1.00xw:0.846xh;0,0.154xh&resize=1200:*",
+            "beschrijving": "The 2024 Infiniti Q70 is a luxury sedan that combines elegant design, performance, and advanced features."
+        },
+        {
+            "id": 18,
+            "merk": "Acura",
+            "model": "2024 Acura RLX",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/813000/400/813430.jpg",
+            "beschrijving": "The 2024 Acura RLX is a spacious and well-equipped luxury sedan that offers a comfortable ride and a host of advanced technologies."
+        },
+        {
+            "id": 19,
+            "merk": "Lincoln",
+            "model": "2024 Lincoln Continental",
+            "bouwjaar": "2024",
+            "image": "https://media.lincoln.com/content/dam/lincolnmedia/lna/us/2015/03/30/lcckit/main-image-cutout.png",
+            "beschrijving": "The 2024 Lincoln Continental is a symbol of American luxury, offering a plush interior, smooth ride, and modern technology."
+        },
+        {
+            "id": 20,
+            "merk": "Alfa Romeo",
+            "model": "2024 Alfa Romeo Giulia",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/813000/600/813641.jpg",
+            "beschrijving": "The 2024 Alfa Romeo Giulia is a stylish and sporty sedan that delivers a thrilling driving experience with Italian charm."
+        },
+        {
+            "id": 21,
+            "merk": "Audi",
+            "model": "2024 Audi S8",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/813000/700/813711.jpg",
+            "beschrijving": "The 2024 Audi S8 is a high-performance luxury sedan that offers a powerful engine, advanced technology, and a refined interior."
+        },
+        {
+            "id": 22,
+            "merk": "BMW",
+            "model": "2024 BMW M5",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2024-bmw-m5-sedan-rendering-1676575610.jpg?crop=0.818xw:0.723xh;0.135xw,0.277xh&resize=1200:*",
+            "beschrijving": "The 2024 BMW M5 is a high-performance luxury sedan that combines blistering speed, advanced technology, and everyday usability."
+        },
+        {
+            "id": 23,
+            "merk": "Mercedes-Benz",
+            "model": "2024 Mercedes-Benz E-Class",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/813000/900/813942.jpg",
+            "beschrijving": "The 2024 Mercedes-Benz E-Class is a versatile and luxurious sedan that offers advanced features and a comfortable ride."
+        },
+        {
+            "id": 24,
+            "merk": "Volvo",
+            "model": "2024 Volvo S60",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/294035-s60-recharge-t8-thunder-grey-1647010632.jpg?crop=0.482xw:0.362xh;0.264xw,0.408xh&resize=1200:*",
+            "beschrijving": "The 2024 Volvo S60 is a stylish and safe luxury sedan that offers a serene driving experience and advanced technology."
+        },
+        {
+            "id": 25,
+            "merk": "Jaguar",
+            "model": "2024 Jaguar XF",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/814000/100/814112.jpg",
+            "beschrijving": "The 2024 Jaguar XF is a sophisticated and dynamic luxury sedan that combines British elegance with modern performance."
+        },
+        {
+            "id": 26,
+            "merk": "Maserati",
+            "model": "2024 Maserati Ghibli",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/814000/200/814238.jpg",
+            "beschrijving": "The 2024 Maserati Ghibli is a sporty and luxurious sedan that offers Italian style and thrilling performance."
+        },
+        {
+            "id": 27,
+            "merk": "Tesla",
+            "model": "2024 Tesla Model 3",
+            "bouwjaar": "2024",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2024-tesla-model-3-blue-659ebaabd4e71.jpg?crop=1xw:1xh;center,top&resize=980:*",
+            "beschrijving": "The 2024 Tesla Model 3 is an electric sedan that offers impressive range, cutting-edge technology, and a minimalist design."
+        },
+        {
+            "id": 28,
+            "merk": "Porsche",
+            "model": "2024 Porsche Taycan",
+            "bouwjaar": "2024",
+            "image": "https://cdn.carbuzz.com/gallery-images/840x560/814000/400/814453.jpg",
+            "beschrijving": "The 2024 Porsche Taycan is an all-electric sports sedan that offers blistering performance and advanced technology."
+        }
+    ]
+}
+
